@@ -9,9 +9,9 @@
     <img src="img-readme/inicio.png" alt="Sessão de Início">
 </div>
 
-* ### Sessão de Sobre
+* ### Sessão Sobre
 <div>
-    <img src="img-readme/sobre.png" alt="Sessão de Sobre">
+    <img src="img-readme/sobre.png" alt="Sessão Sobre">
 </div>
 
 * ### Sessão de Projetos
